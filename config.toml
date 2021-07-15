@@ -1,4 +1,4 @@
 baseURL = "https://mengqp.github.io"
 languageCode = "en-us"
 title = "mengqp"
-publishDir = "../public"
+publishDir = "./public"
